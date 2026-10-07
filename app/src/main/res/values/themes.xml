@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.Languagetranslator" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">@color/design_default_color_primary_variant</item>
+
+    </style>
+
+    <style name="Theme.Languagetranslator" parent="Base.Theme.Languagetranslator" />
+</resources>

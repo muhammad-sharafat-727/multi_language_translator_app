@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_app_logo"
+        android:icon="@drawable/ic_app_icon"
+        android:title="TODO"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share"
+        android:title="Share"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu_star"
+        android:icon="@drawable/ic_star"
+        android:title="Rate Us"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/menu_privacy_policy"
+        android:icon="@drawable/ic_share"
+        android:title="Privacy Policy"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/menu_fb"
+        android:icon="@drawable/ic_share"
+        android:title="Feed Back"
+        app:showAsAction="never"
+        />
+
+</menu>
